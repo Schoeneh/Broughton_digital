@@ -3,4 +3,5 @@
 
 ## 1. Preprocessing
 ## 2. OCR - Tesseract (gImageReader)
+https://github.com/manisandro/gImageReader
 ## 3. Processing
